@@ -1,7 +1,7 @@
 <p align="center"><img src="telas/banner.png" alt="SolarWinds Simplificado" width="100%"></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/vers%C3%A3o-147.15-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-10-512BD4"> <img src="https://img.shields.io/badge/licen%C3%A7a-autoriza%C3%A7%C3%A3o%20do%20autor-lightgrey">
+<img src="https://img.shields.io/badge/vers%C3%A3o-147.16-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-10-512BD4"> <img src="https://img.shields.io/badge/licen%C3%A7a-autoriza%C3%A7%C3%A3o%20do%20autor-lightgrey">
 </p>
 
 <p align="center"><b>O dia a dia do SolarWinds Orion numa janela simples e rápida.</b><br><i>Everyday SolarWinds Orion work in one simple, fast window.</i></p>
@@ -50,10 +50,8 @@ Um cliente para quem administra o SolarWinds Orion e quer ver o estado da rede e
 
 Windows 10/11 x64 · .NET 10 Desktop Runtime · WebView2 Runtime
 
-## Novidades / What's new — v147.15
-- Temas com nomes novos, Padrão e Clássico; títulos dos grupos em azul-escuro e ícones sempre azuis (a cor da janela vale só na moldura). / *Themes renamed Standard and Classic; dark-blue group titles and always-blue icons (the window color only affects the frame).*
-- Configurações com lista e página encostadas, rodapé com "Restaurar padrão" e caixas de escolha brancas. / *Settings with flush list and page, a "Restore defaults" footer and white drop-downs.*
-- Filtros dos alertas na caixa "Mostrar", listas mais baixas e aviso de versão nova no formato das mensagens. / *Alert filters in a "Show" box, shorter list rows and the new-version notice as a message.*
-- Tamanho da interface em todas as janelas; no Clássico, nenhum canto arredondado e letra Tahoma. / *Interface size in every window; no rounded corners and Tahoma in Classic.*
+## Novidades / What's new — v147.16
+- Consultas ao Orion mais rápidas: a comunicação com a API passou para um motor novo, nativo (cerca de 2 vezes mais rápido). / *Faster Orion queries: API communication moved to a new native engine (about twice as fast).*
+- Mesmas telas, funções e mensagens de antes. / *Same screens, features and messages as before.*
 
 <sub>Uso somente com autorização escrita do autor. Termos em [LICENSE](https://github.com/Dorflex-DD/SolarWinds-releases/releases/latest/download/LICENSE). / Use only with the author's written authorization. Terms in [LICENSE](https://github.com/Dorflex-DD/SolarWinds-releases/releases/latest/download/LICENSE).</sub>
