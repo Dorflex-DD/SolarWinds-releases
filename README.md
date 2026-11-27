@@ -1,7 +1,7 @@
 <p align="center"><img src="telas/banner.png" alt="SolarWinds Simplificado" width="100%"></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/vers%C3%A3o-147.16-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-10-512BD4"> <img src="https://img.shields.io/badge/licen%C3%A7a-autoriza%C3%A7%C3%A3o%20do%20autor-lightgrey">
+<img src="https://img.shields.io/badge/vers%C3%A3o-147.17-blue"> <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6"> <img src="https://img.shields.io/badge/.NET-10-512BD4"> <img src="https://img.shields.io/badge/licen%C3%A7a-autoriza%C3%A7%C3%A3o%20do%20autor-lightgrey">
 </p>
 
 <p align="center"><b>O dia a dia do SolarWinds Orion numa janela simples e rápida.</b><br><i>Everyday SolarWinds Orion work in one simple, fast window.</i></p>
@@ -50,8 +50,8 @@ Um cliente para quem administra o SolarWinds Orion e quer ver o estado da rede e
 
 Windows 10/11 x64 · .NET 10 Desktop Runtime · WebView2 Runtime
 
-## Novidades / What's new — v147.16
-- Consultas ao Orion mais rápidas: a comunicação com a API passou para um motor novo, nativo (cerca de 2 vezes mais rápido). / *Faster Orion queries: API communication moved to a new native engine (about twice as fast).*
-- Mesmas telas, funções e mensagens de antes. / *Same screens, features and messages as before.*
+## Novidades / What's new — v147.17
+- A leitura das telas do Orion passou para o motor novo, nativo: um pouco mais rápida e com menos memória. / *Reading Orion screens moved to the new native engine: a bit faster and lighter.*
+- Corrigido: algumas páginas com HTML malformado faziam a leitura parar com erro. / *Fixed: some pages with malformed HTML stopped reading with an error.*
 
 <sub>Uso somente com autorização escrita do autor. Termos em [LICENSE](https://github.com/Dorflex-DD/SolarWinds-releases/releases/latest/download/LICENSE). / Use only with the author's written authorization. Terms in [LICENSE](https://github.com/Dorflex-DD/SolarWinds-releases/releases/latest/download/LICENSE).</sub>
